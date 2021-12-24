@@ -50,3 +50,4 @@ Or
 curl http://localhost:3000/
 
 ```
+![Screenshot](https://github.com/Adiii717/dockerized-nodejs-demo-app/blob/896baff5979b9cd8c98f61a7f3db6ffd1a095023/app/demo.png)
